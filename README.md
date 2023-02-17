@@ -10,9 +10,7 @@ Simon is an app game of short-term memory skill. The app creates a series of ton
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Front End Style](#front-end-style-guide)
-- [Colors](#colors)
-- [Typography](#typography)
+- [Useful Resources](#useful-resources)
 
 ## Overview
 
